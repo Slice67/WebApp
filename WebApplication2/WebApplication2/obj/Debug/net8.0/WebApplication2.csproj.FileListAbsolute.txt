@@ -172,7 +172,6 @@ E:\Projects\web-app\web-app\WebApplication2\WebApplication2\bin\Debug\net8.0\Web
 E:\Projects\web-app\web-app\WebApplication2\WebApplication2\bin\Debug\net8.0\WebApplication2.dll
 E:\Projects\web-app\web-app\WebApplication2\WebApplication2\bin\Debug\net8.0\WebApplication2.pdb
 E:\Projects\web-app\web-app\WebApplication2\WebApplication2\bin\Debug\net8.0\Humanizer.dll
-E:\Projects\web-app\web-app\WebApplication2\WebApplication2\bin\Debug\net8.0\Microsoft.AspNetCore.SpaServices.Extensions.dll
 E:\Projects\web-app\web-app\WebApplication2\WebApplication2\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
 E:\Projects\web-app\web-app\WebApplication2\WebApplication2\bin\Debug\net8.0\Microsoft.Build.Locator.dll
 E:\Projects\web-app\web-app\WebApplication2\WebApplication2\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
