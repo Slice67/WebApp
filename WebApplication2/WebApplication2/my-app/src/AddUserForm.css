@@ -1,0 +1,64 @@
+﻿/* AddUserForm.css */
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    text-align: center;
+    color: #333;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+label {
+    font-weight: bold;
+    color: #555;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="tel"],
+button {
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    width: 100%;
+}
+
+input[type="checkbox"] {
+    margin-right: 10px;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    cursor: pointer;
+    border: none;
+    transition: background-color 0.3s ease;
+}
+
+    button:hover {
+        background-color: #45a049;
+    }
+
+.error-message {
+    color: red;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+section {
+    margin-top: 20px;
+}
