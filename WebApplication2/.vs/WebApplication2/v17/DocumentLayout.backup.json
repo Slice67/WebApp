@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "E:\\Projects\\web-app\\WebApplication2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E21B2373-4CE6-42A8-9A68-45411A2F4880}|WebApplication2\\WebApplication2.csproj|e:\\projects\\web-app\\webapplication2\\webapplication2\\my-app\\src\\adduserform.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{E21B2373-4CE6-42A8-9A68-45411A2F4880}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\my-app\\src\\adduserform.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{E21B2373-4CE6-42A8-9A68-45411A2F4880}|WebApplication2\\WebApplication2.csproj|e:\\projects\\web-app\\webapplication2\\webapplication2\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E21B2373-4CE6-42A8-9A68-45411A2F4880}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E21B2373-4CE6-42A8-9A68-45411A2F4880}|WebApplication2\\WebApplication2.csproj|e:\\projects\\web-app\\webapplication2\\webapplication2\\my-app\\src\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{E21B2373-4CE6-42A8-9A68-45411A2F4880}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\my-app\\src\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{E21B2373-4CE6-42A8-9A68-45411A2F4880}|WebApplication2\\WebApplication2.csproj|e:\\projects\\web-app\\webapplication2\\webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E21B2373-4CE6-42A8-9A68-45411A2F4880}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E21B2373-4CE6-42A8-9A68-45411A2F4880}|WebApplication2\\WebApplication2.csproj|e:\\projects\\web-app\\webapplication2\\webapplication2\\my-app\\src\\adduserform.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -19,20 +19,8 @@
       "RelativeMoniker": "D:0:0:{E21B2373-4CE6-42A8-9A68-45411A2F4880}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\my-app\\src\\userlist.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E21B2373-4CE6-42A8-9A68-45411A2F4880}|WebApplication2\\WebApplication2.csproj|e:\\projects\\web-app\\webapplication2\\webapplication2\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E21B2373-4CE6-42A8-9A68-45411A2F4880}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Projects\\web-app\\web-app\\WebApplication2\\WebApplication2\\client-app\\src\\UserList.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Projects\\web-app\\web-app\\WebApplication2\\WebApplication2\\client-app\\src\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Projects\\web-app\\web-app\\WebApplication2\\WebApplication2\\client-app\\src\\App.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Projects\\web-app\\web-app\\WebApplication2\\WebApplication2\\client-app\\src\\AddUserForm.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{E21B2373-4CE6-42A8-9A68-45411A2F4880}|WebApplication2\\WebApplication2.csproj|e:\\projects\\web-app\\webapplication2\\webapplication2\\my-app\\src\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E21B2373-4CE6-42A8-9A68-45411A2F4880}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\my-app\\src\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,45 +30,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "UsersController.cs",
               "DocumentMoniker": "E:\\Projects\\web-app\\WebApplication2\\WebApplication2\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "WebApplication2\\Controllers\\UsersController.cs",
               "ToolTip": "E:\\Projects\\web-app\\WebApplication2\\WebApplication2\\Controllers\\UsersController.cs",
               "RelativeToolTip": "WebApplication2\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAQwBkAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAYwDUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-04T12:17:19.663Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AddUserForm.css",
-              "DocumentMoniker": "E:\\Projects\\web-app\\WebApplication2\\WebApplication2\\my-app\\src\\AddUserForm.css",
-              "RelativeDocumentMoniker": "WebApplication2\\my-app\\src\\AddUserForm.css",
-              "ToolTip": "E:\\Projects\\web-app\\WebApplication2\\WebApplication2\\my-app\\src\\AddUserForm.css",
-              "RelativeToolTip": "WebApplication2\\my-app\\src\\AddUserForm.css",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAmwDkAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-12-05T15:26:48.14Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "App.js",
-              "DocumentMoniker": "E:\\Projects\\web-app\\WebApplication2\\WebApplication2\\my-app\\src\\App.js",
-              "RelativeDocumentMoniker": "WebApplication2\\my-app\\src\\App.js",
-              "ToolTip": "E:\\Projects\\web-app\\WebApplication2\\WebApplication2\\my-app\\src\\App.js",
-              "RelativeToolTip": "WebApplication2\\my-app\\src\\App.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-12-05T15:22:16.477Z"
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Projects\\web-app\\WebApplication2\\WebApplication2\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Program.cs",
+              "ToolTip": "E:\\Projects\\web-app\\WebApplication2\\WebApplication2\\Program.cs",
+              "RelativeToolTip": "WebApplication2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T03:17:58.377Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -90,9 +67,23 @@
               "RelativeDocumentMoniker": "WebApplication2\\my-app\\src\\AddUserForm.js",
               "ToolTip": "E:\\Projects\\web-app\\WebApplication2\\WebApplication2\\my-app\\src\\AddUserForm.js",
               "RelativeToolTip": "WebApplication2\\my-app\\src\\AddUserForm.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAowB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-12-05T15:19:50.539Z"
+              "WhenOpened": "2024-12-08T03:05:53.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.js",
+              "DocumentMoniker": "E:\\Projects\\web-app\\WebApplication2\\WebApplication2\\my-app\\src\\App.js",
+              "RelativeDocumentMoniker": "WebApplication2\\my-app\\src\\App.js",
+              "ToolTip": "E:\\Projects\\web-app\\WebApplication2\\WebApplication2\\my-app\\src\\App.js",
+              "RelativeToolTip": "WebApplication2\\my-app\\src\\App.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-08T03:05:52.136Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -102,53 +93,10 @@
               "RelativeDocumentMoniker": "WebApplication2\\my-app\\src\\UserList.js",
               "ToolTip": "E:\\Projects\\web-app\\WebApplication2\\WebApplication2\\my-app\\src\\UserList.js",
               "RelativeToolTip": "WebApplication2\\my-app\\src\\UserList.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAowGQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-12-05T15:18:39.52Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AddUserForm.css",
-              "DocumentMoniker": "E:\\Projects\\web-app\\web-app\\WebApplication2\\WebApplication2\\client-app\\src\\AddUserForm.css",
-              "RelativeDocumentMoniker": "..\\web-app\\WebApplication2\\WebApplication2\\client-app\\src\\AddUserForm.css",
-              "ToolTip": "E:\\Projects\\web-app\\web-app\\WebApplication2\\WebApplication2\\client-app\\src\\AddUserForm.css",
-              "RelativeToolTip": "..\\web-app\\WebApplication2\\WebApplication2\\client-app\\src\\AddUserForm.css",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-12-04T12:59:10.494Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "App.js",
-              "DocumentMoniker": "E:\\Projects\\web-app\\web-app\\WebApplication2\\WebApplication2\\client-app\\src\\App.js",
-              "RelativeDocumentMoniker": "..\\web-app\\WebApplication2\\WebApplication2\\client-app\\src\\App.js",
-              "ToolTip": "E:\\Projects\\web-app\\web-app\\WebApplication2\\WebApplication2\\client-app\\src\\App.js",
-              "RelativeToolTip": "..\\web-app\\WebApplication2\\WebApplication2\\client-app\\src\\App.js",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-12-04T12:29:25.81Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "index.js",
-              "DocumentMoniker": "E:\\Projects\\web-app\\web-app\\WebApplication2\\WebApplication2\\client-app\\src\\index.js",
-              "RelativeDocumentMoniker": "..\\web-app\\WebApplication2\\WebApplication2\\client-app\\src\\index.js",
-              "ToolTip": "E:\\Projects\\web-app\\web-app\\WebApplication2\\WebApplication2\\client-app\\src\\index.js",
-              "RelativeToolTip": "..\\web-app\\WebApplication2\\WebApplication2\\client-app\\src\\index.js",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-12-04T12:29:09.273Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UserList.js",
-              "DocumentMoniker": "E:\\Projects\\web-app\\web-app\\WebApplication2\\WebApplication2\\client-app\\src\\UserList.js",
-              "RelativeDocumentMoniker": "..\\web-app\\WebApplication2\\WebApplication2\\client-app\\src\\UserList.js",
-              "ToolTip": "E:\\Projects\\web-app\\web-app\\WebApplication2\\WebApplication2\\client-app\\src\\UserList.js",
-              "RelativeToolTip": "..\\web-app\\WebApplication2\\WebApplication2\\client-app\\src\\UserList.js",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-12-04T12:28:49.363Z"
+              "WhenOpened": "2024-12-05T15:18:39.52Z",
+              "EditorCaption": ""
             }
           ]
         }

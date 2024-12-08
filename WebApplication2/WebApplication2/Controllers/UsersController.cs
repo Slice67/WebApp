@@ -32,5 +32,24 @@ namespace WebApplication2.Controllers {
             return await _context.Users.ToListAsync();
         }
 
+        [HttpPut("{id}")]
+        public async Task<IActionResult> UpdateUser(int id, [FromBody] User updatedUser) {
+            if (id != updatedUser.Id ) {
+                return BadRequest();
+            }
+
+            _context.Entry(updatedUser).State = EntityState.Modified;
+
+            try {
+                await _context.SaveChangesAsync();
+            } catch ( DbUpdateConcurrencyException ) {
+                if (!_context.Users.Any(e => e.Id == id) ) {
+                    return NotFound();
+                } else {
+                    throw;
+                }
+            }
+            return NoContent();
+        }
     }
 }
