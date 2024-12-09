@@ -481,10 +481,10 @@ E:\Projects\web-app\WebApplication2\WebApplication2\obj\Debug\net8.0\staticwebas
 E:\Projects\web-app\WebApplication2\WebApplication2\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication2.props
 E:\Projects\web-app\WebApplication2\WebApplication2\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApplication2.props
 E:\Projects\web-app\WebApplication2\WebApplication2\obj\Debug\net8.0\staticwebassets.pack.json
-E:\Projects\web-app\WebApplication2\WebApplication2\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 E:\Projects\web-app\WebApplication2\WebApplication2\obj\Debug\net8.0\WebAppli.0DB3FC1A.Up2Date
 E:\Projects\web-app\WebApplication2\WebApplication2\obj\Debug\net8.0\WebApplication2.dll
 E:\Projects\web-app\WebApplication2\WebApplication2\obj\Debug\net8.0\refint\WebApplication2.dll
 E:\Projects\web-app\WebApplication2\WebApplication2\obj\Debug\net8.0\WebApplication2.pdb
 E:\Projects\web-app\WebApplication2\WebApplication2\obj\Debug\net8.0\WebApplication2.genruntimeconfig.cache
 E:\Projects\web-app\WebApplication2\WebApplication2\obj\Debug\net8.0\ref\WebApplication2.dll
+E:\Projects\web-app\WebApplication2\WebApplication2\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
